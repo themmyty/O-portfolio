@@ -355,7 +355,7 @@ section{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 .about .about-img{
@@ -363,7 +363,7 @@ section{
 }
 
 .about .about-img .aboutHero{
-    width: 40vw;
+    width: 30vw;
     height: auto;
 }
 
